@@ -1,6 +1,6 @@
 # CHICO REI SINGLE PAGE APPLICATION
 
-![preview](./readme-pic.png)
+![preview](./readme-pic)
 
 Este projeto foi realizado como parte do processo seletivo para analista e desenvolvedor de sistemas JR na empresa CHICO REI, o desafio foi criado em duas partes, uma técnica e outra prática, e aqui, o presente projeto cumpre a parte prática e atende seus requisitos. Tal desafio exige que escolhamos uma API pública de escolha livre e através dela, é necessário buscar e criar dados em formas específicas. Foram dadas 3 opções para resolução do desafio.
 

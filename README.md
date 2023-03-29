@@ -31,6 +31,6 @@ Este projeto foi realizado como parte do processo seletivo para analista e desen
   ![Nodejs](https://img.shields.io/badge/NodeJs-61DAFB?style=for-the-badge&logo=node&logoColor=35495E)
   &nbsp;
   ![Postmann](https://img.shields.io/badge/Postmann-323330?style=for-the-badge&logo=Postmann&logoColor=F7DF1E)
-  ![Laravel](https://img.shields.io/badge/Knex-important?style=for-the-badge&logo=Knex&logoColor=F7DF1E)
+  ![Laravel](https://img.shields.io/badge/Laravel-important?style=for-the-badge&logo=Laravel&logoColor=F7DF1E)
   ![Git](https://img.shields.io/badge/Git-171515?style=for-the-badge&logo=Git&logoColor=white)
 </div>
